@@ -9,6 +9,8 @@ Aplicativo desenvolvido para disciplina de IHC da faculdade.
 ### How to:
 
 ```bash
+$ git clone https://github.com/agnertorres/todoApp.git
+$ cd todoApp
 $ npm install -g ionic cordova
 $ npm install
 $ ionic serve
